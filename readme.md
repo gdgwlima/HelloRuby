@@ -6,4 +6,6 @@ Prerequisitos :
 - Uso de editor (VSCode o SublimeText)
 - Ruby Installer
 
+Se agregaran los ejercicios en este repositorio.
+
  
